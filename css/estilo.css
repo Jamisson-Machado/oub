@@ -188,3 +188,13 @@ ul.noticias li p a{
 .contato input.botao{
 	width: auto;
 }
+
+@media screen and (max-width: 900px){
+
+.coluna{
+	padding: auto;
+	float: none;
+	height: auto;
+}
+
+}
